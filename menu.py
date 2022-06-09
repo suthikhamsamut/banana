@@ -1,1 +1,2 @@
 print('mainmenu')
+print('submenu')
